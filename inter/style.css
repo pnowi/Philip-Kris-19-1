@@ -97,7 +97,7 @@ p {
     margin: 0 20px 15px 20px;
 }
 
-#explanation danger {
+#explanation .danger {
     color: brown;
     font-weight: bold;
 }
